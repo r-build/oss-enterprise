@@ -2,8 +2,8 @@
 
 ### Our Preferred Licenses
 
-- For software projects, we use xx
-- For documentation projects, we use yy
+- For software projects, we use xx1
+- For documentation projects, we use yy2
 
 ### Acceptable Licenses
 
